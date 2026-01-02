@@ -1,1 +1,1 @@
-# praktikum_ml
+# Praktikum Machine Learning IF5140
